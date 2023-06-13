@@ -13,3 +13,6 @@ solve(["abode","ABc","xyzD"]) = [4, 3, 1]
 Input will consist of alphabet characters, 
 both uppercase and lowercase. No spaces.
 */
+
+
+// Solution
